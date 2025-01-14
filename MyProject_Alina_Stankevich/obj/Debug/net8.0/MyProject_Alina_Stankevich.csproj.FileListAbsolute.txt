@@ -1,0 +1,14 @@
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\bin\Debug\net8.0\MyProject_Alina_Stankevich.exe
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\bin\Debug\net8.0\MyProject_Alina_Stankevich.deps.json
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\bin\Debug\net8.0\MyProject_Alina_Stankevich.runtimeconfig.json
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\bin\Debug\net8.0\MyProject_Alina_Stankevich.dll
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\bin\Debug\net8.0\MyProject_Alina_Stankevich.pdb
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.AssemblyInfoInputs.cache
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.AssemblyInfo.cs
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.dll
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\refint\MyProject_Alina_Stankevich.dll
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.pdb
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\MyProject_Alina_Stankevich.genruntimeconfig.cache
+C:\Users\alina\Desktop\web\MyProject_Alina_Stankevich\MyProject_Alina_Stankevich\obj\Debug\net8.0\ref\MyProject_Alina_Stankevich.dll
